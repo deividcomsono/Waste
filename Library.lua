@@ -2469,7 +2469,7 @@ do
 				end
 			end
 
-			Button.Active = not Toggle.Disabled
+			Toggle.Active = not Toggle.Disabled
 			Toggle:Display()
 		end
 
